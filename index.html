@@ -14,10 +14,10 @@
             </div>
         </header>
         <div class="main-div"><br>
-            <h2><u>Liste des sites :</u></h2>
+            <h2><u>List of sites:</u></h2>
             <script>
             list.forEach(element => {
-                toprint = `<li><a class="linktogitpage" target="_blank" href="${element["gitpage_link"]}">${element["name"]}</a> <a class="linktogitpage" target="_blank" href="${element["repo_link"]}">(GitHub Repo)</a></li>`
+                toprint = `<li class="li"><a class="linktogitpage" target="_blank" href="${element["gitpage_link"]}">${element["name"]}</a> <a class="linktogitpage" target="_blank" href="${element["repo_link"]}">(GitHub Repo)</a></li>`
                 document.write(toprint)
             });
         </script>
