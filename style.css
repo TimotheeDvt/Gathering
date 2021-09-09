@@ -1,9 +1,35 @@
 body {
-    width: 100%;
-    height: 100vw;
-    background-color: black;
+    background-color: rgb(51,51,51);
 }
 
 .header {
-    background-color: orange ;
+    background-color: rgb(238, 158, 10);
+}
+
+.main-title {
+    padding: 10px 0 10px 0;
+    width: 20%;
+    margin: 0;
+}
+
+.div-main-title {
+    padding-left: 5%;
+    width: min-content;
+}
+
+.main-div {    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 3%;
+    border-radius: 15%;
+    background-color: rgb(238, 158, 10);
+    width: 50%;
+    height: 80vh;
+}
+
+.linktogitpage {
+    font-size: larger;
+    text-decoration: none;
+    color: black;
 }
