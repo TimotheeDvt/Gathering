@@ -13,5 +13,30 @@ list = [
         "name" : "Enigma",
         "repo_link" : "https://github.com/Tablatim/Enigma",
         "gitpage_link" : "https://tablatim.github.io/Enigma/"
+    },
+    {
+        "name" : "Chess",
+        "repo_link" : "https://github.com/Tablatim/Chess",
+        "gitpage_link" : "https://tablatim.github.io/Chess/"
+    },
+    {
+        "name" : "Pong",
+        "repo_link" : "https://github.com/Tablatim/Pong",
+        "gitpage_link" : "https://tablatim.github.io/Pong/"
+    },
+    {
+        "name" : "Random Backing Track",
+        "repo_link" : "https://github.com/Tablatim/RandomBackinTrack",
+        "gitpage_link" : "https://tablatim.github.io/RandomBackinTrack/"
+    },
+    {
+        "name" : "Snake",
+        "repo_link" : "https://github.com/Tablatim/Snake",
+        "gitpage_link" : "https://tablatim.github.io/Snake/"
+    },
+    {
+        "name" : "Snake Ai",
+        "repo_link" : "https://github.com/Tablatim/Snake-Ai",
+        "gitpage_link" : "https://tablatim.github.io/Snake-Ai/"
     }
 ]
