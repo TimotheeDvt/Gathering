@@ -35,7 +35,7 @@ list = [
         "gitpage_link" : "https://tablatim.github.io/Snake/"
     },
     {
-        "name" : "Snake Ai",
+        "name" : "Snake-Ai",
         "repo_link" : "https://github.com/Tablatim/Snake-Ai",
         "gitpage_link" : "https://tablatim.github.io/Snake-Ai/"
     }
