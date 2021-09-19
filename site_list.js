@@ -38,5 +38,10 @@ list = [
         "name" : "Snake-Ai",
         "repo_link" : "https://github.com/Tablatim/Snake-Ai",
         "gitpage_link" : "https://tablatim.github.io/Snake-Ai/"
+    },
+    {
+        "name" : "Gamme Note Guitare",
+        "repo_link" : "https://github.com/Tablatim/Gamme-Note-Guitare",
+        "gitpage_link" : "https://tablatim.github.io/Gamme-Note-Guitare/"
     }
 ]
