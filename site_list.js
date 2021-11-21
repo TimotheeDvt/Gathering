@@ -43,5 +43,10 @@ list = [
         "name" : "Gamme Note Guitare",
         "repo_link" : "https://github.com/Tablatim/Gamme-Note-Guitare",
         "gitpage_link" : "https://tablatim.github.io/Gamme-Note-Guitare/"
+    },
+    {
+        "name" : "RayCasting 3D game",
+        "repo_link" : "https://github.com/Tablatim/RayCasting",
+        "gitpage_link" : "https://tablatim.github.io/RayCasting/"
     }
 ]
