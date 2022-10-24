@@ -40,7 +40,7 @@ list = [
         "gitpage_link" : "https://tablatim.github.io/Snake-Ai/"
     },
     {
-        "name" : "Gamme Note Guitare",
+        "name" : "Gamme Note Accords Guitare & Piano",
         "repo_link" : "https://github.com/Tablatim/Gamme-Note-Guitare",
         "gitpage_link" : "https://tablatim.github.io/Gamme-Note-Guitare/"
     },
