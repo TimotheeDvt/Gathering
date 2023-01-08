@@ -3,6 +3,10 @@ list = [
         "name" : "Algorigramme Sort",
         "repo_link" : "https://github.com/Tablatim/Algorigramme_Sort",
         "gitpage_link" : "https://tablatim.github.io/Algorigramme_Sort"
+    },{
+        "name" : "Hanoi Visualisation",
+        "repo_link" : "https://github.com/Tablatim/HanoiVisualisation",
+        "gitpage_link" : "https://tablatim.github.io/HanoiVisualisation/"
     },
     {
         "name" : "3x+1 Graphic",
