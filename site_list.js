@@ -52,5 +52,10 @@ list = [
         "name" : "RayCasting 3D game",
         "repo_link" : "https://github.com/TimotheeDvt/RayCasting",
         "gitpage_link" : "https://timotheedvt.github.io/RayCasting/"
+    },
+    {
+        "name" : "Harmonic Interface for EDO Explorations",
+        "repo_link" : "https://github.com/TimotheeDvt/harmonic-interface-edo",
+        "gitpage_link" : "https://timotheedvt.github.io/harmonic-interface-edo/"
     }
 ]
